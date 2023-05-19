@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yogesh from @JustCreate-pix
-- 👀 I’m interested in pythom programming and web development
+- 👀 I’m interested in python programming and web development
 - 🌱 I’m currently learning Python programming language
 - 📫 How to reach me ...> You can reach me at email address: justcreate.pix@gmail.com
 
